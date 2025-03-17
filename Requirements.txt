@@ -1,0 +1,3 @@
+opencv-python
+embeddings
+psycopg2-binary
